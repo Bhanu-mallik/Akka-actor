@@ -1,0 +1,5 @@
+07:42:25.269 INFO  akka.event.slf4j.Slf4jLogger - Slf4jLogger started
+07:42:25.318 INFO  Assignment1$SimpleActorLogger - Hey
+07:42:25.318 INFO  Assignment1$SimpleActorLogger - Mallik
+07:42:25.319 INFO  Assignment1$SimpleActorLogger - Bhanu
+07:42:25.319 INFO  Assignment1$SimpleActorLogger - Bro
